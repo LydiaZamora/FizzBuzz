@@ -9,7 +9,7 @@ public string FizzBuzz(int num)
     
     if(num % 5 == 0) 
     {
-        answer += "buz"
+        answer += "buz";
     }
     
     return answer;
